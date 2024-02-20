@@ -1,9 +1,7 @@
-# Evolucao-Java
+# Java Evolution
 
+## Start
 
-
-## Início
-
-Este é o repositório base do módulo que aborda o Quarkus Framework do curso Evolução Java.
+This is a code base to my Udemy course related to Microservices with Java, Quarkus and Kafka.
 
 
